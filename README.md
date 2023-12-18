@@ -1,15 +1,13 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   
-  ## Hello I'm Taha SAFA, AKA thehunt1s0n.
-  
+  ## Hello 👋 I'm Taha SAFA, AKA thehunt1s0n.
 </div>
 
 ### About Me:
 
-
-
 <div id="header" align="center">
-  <img src="https://github.com/thehunt1s0n/media/blob/main/avatar.jpg?raw=true" width="100"/>
+  
+  ## Cybersecurity student 💻 | Red Teaming enthusiast 🔴.
 </div>
 
 <div id="badges" align="center">
@@ -38,6 +36,12 @@
 :lock:I enjoy being challenged and solving complicated puzzles.
 
 :email:You can reach me using tahasafa933@gmail.com.
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thehunt1s0n&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehunt1s0n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
