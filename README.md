@@ -9,6 +9,7 @@
   
   ## Cybersecurity student 💻 | Red Teaming enthusiast 🔴.
 </div>
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/taha-safa-a094a3248/">
@@ -28,14 +29,19 @@
   <img src="https://komarev.com/ghpvc/?username=thehunt1s0n&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
+<br>
 
-:mortar_board:I'm currently enrolled in a cybersecurity engineering program at the National Institute of Posts and Telecommunications in Rabat, Morocco.
+<div align="left">
+  
+  :mortar_board:I'm currently enrolled in a cybersecurity engineering program at the National Institute of Posts and Telecommunications in Rabat, Morocco.
 
-:computer:I like rooting machines and solving challenges on platforms like HackTheBox, Proving Grounds, PicoCTF,... .
+  :computer:I like rooting machines and solving challenges on platforms like HackTheBox, Proving Grounds, PicoCTF,... .
 
-:lock:I enjoy being challenged and solving complicated puzzles.
+  :lock:I enjoy being challenged and solving complicated puzzles.
 
-:email:You can reach me using tahasafa933@gmail.com.
+  :email:You can reach me using tahasafa933@gmail.com.
+</div>
+<br>
 
 ### :fire: My Stats :
 
@@ -43,7 +49,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehunt1s0n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 👩‍💻Languages : 
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!--
 **thehunt1s0n/thehunt1s0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
