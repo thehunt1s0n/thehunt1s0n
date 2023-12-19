@@ -20,14 +20,15 @@
 <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/taha-safa-a094a3248/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://thehunt1s0n.github.io/">
-    <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=github&logoColor=white" alt="Blog Badge"/>
+    <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=github&logoColor=white" alt="Blog Badge">
   </a>
+  <a href="https://www.linkedin.com/in/taha-safa-a094a3248/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <br>
   <a href="https://twitter.com/thehunt1s0n">
-    <img src="https://img.shields.io/twitter/follow/thehunt1s0n.svg?labelColor=black" alt="Blog Badge" style="width: 200px; height: 25px;">
+    <img src="https://img.shields.io/twitter/follow/thehunt1s0n.svg?labelColor=black" alt="Blog Badge" style="width: 188px; height: 25px;">
   </a>
 </div>
 <br>
