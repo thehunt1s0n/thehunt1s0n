@@ -54,9 +54,9 @@
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehunt1s0n&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehunt1s0n&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehunt1s0n&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehunt1s0n&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👩‍💻Languages : 
 
