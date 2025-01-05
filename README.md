@@ -48,7 +48,7 @@
 
   :lock:I enjoy being challenged and solving complicated puzzles.
 
-  :email:You can reach me using tahasafa933@gmail.com.
+  :email:You can reach me using thehuntison000@gmail.com.
 </div>
 <br>
 
