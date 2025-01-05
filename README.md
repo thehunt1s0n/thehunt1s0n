@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
   
-  # Hello 👋 I'm Taha SAFA, AKA thehunt1s0n.
+  # Hello 👋.
   
 </div>
 
